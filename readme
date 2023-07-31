@@ -1,1 +1,24 @@
-hi ini adalah maskrcnn
+# Algortima Mask R-CNN 
+<img src="https://www.unhas.ac.id/wp-content/uploads/2022/09/Logo-Resmi-Unhas-1.png" alt="Logo Universitas Hasanuddin" height="200"/> </br>
+
+**🧑🏼‍🎓 Andi Anzanul Zikra** | D082201005 </br>
+👨‍🏫 Pembimbing I   : Dr. Amil Ahmad Ilham, S.T., M.IT </br>
+👩🏻‍🏫 Pembimbing II : Inggrid Nurtanion
+
+---
+- Train for multiple classes
+- Improve accuracy (longer training and bigger images)
+- Import the custom detector on Python with Opencv
+- Run detector in realtime on a Video or from a Webcam
+- Continue the training (if interrupted)
+- Integration with Google Drive (to save there weigths and images)
+- Evaluate the accuracy of your Model
+
+
+
+
+***DEPARTEMEN TEKNIK INFORMATIKA
+FAKULTAS TEKNIK
+UNIVERSITAS HASANUDDIN
+MAKASSAR
+2023***  
